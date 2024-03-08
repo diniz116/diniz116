@@ -5,7 +5,7 @@
 <a href = "mailto:vitordiniz2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="left" style="margin-bottom:100px">
 <img width=40% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=diniz116&show_icons=true&theme=radical&layout=compact" />
  </div>
 
