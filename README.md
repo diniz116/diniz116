@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diniz116/)
 <a href = "mailto:vitordiniz2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=diniz116&show_icons=true&theme=radical)
+
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=diniz116&show_icons=true&theme=radical&layout=compact" />
  </div>
